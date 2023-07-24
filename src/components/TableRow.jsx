@@ -11,6 +11,7 @@ function TableRow(props) {
         <td>{item.fees}</td>
         <td><button onClick={()=>{onDelete(item.id)}}>Delete</button></td>
     </tr>
+    
     );
 }
 
