@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.counter{
+  text-align: center;
+  padding: 30px;
+}
+
+.parent{
+  background-color: burlywood;
+  padding: 15px;
+  border: 1px solid black;
+}
+.child{
+  background-color: rgb(135, 208, 222);
+  padding: 15px;
+  border: 1px solid black;
+}
+.bg-red{
+  background-color: coral;
+}
+
+
