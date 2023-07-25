@@ -1,6 +1,6 @@
 import React from 'react';
 import AddEmployee from './AddEmployee';
-import EmployeeList from '../../EmployeeList';
+import EmployeeList from './EmployeeList';
 
 function EmployeeSection(props) {
     // employee data in this component.    
